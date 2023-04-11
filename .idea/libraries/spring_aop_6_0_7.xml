@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="spring-aop-6.0.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Spring_jars/spring-aop-6.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Spring_jars/spring-beans-6.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Spring_jars/spring-context-6.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Spring_jars/spring-context-support-6.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Spring_jars/spring-core-6.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Spring_jars/spring-expression-6.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Spring_jars/spring-jcl-6.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
